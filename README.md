@@ -213,6 +213,8 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 
 ## 鸣谢
 
+12
+
 [@NobyDa](https://github.com/NobyDa) - 京东每日签到
 
 [@lxk0301](https://github.com/lxk0301) - 京东系列其他签到
